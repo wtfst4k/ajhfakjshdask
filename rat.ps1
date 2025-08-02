@@ -1,0 +1,1 @@
+Add-Type -AssemblyName System.Windows.Forms;[System.Windows.Forms.MessageBox]::Show("sir you have viruss in computer", "wdinwso microsofst", [System.Windows.Forms.MessageBoxButtons]::OK, [System.Windows.Forms.MessageBoxIcon]::Information)
